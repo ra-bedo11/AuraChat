@@ -1,0 +1,6 @@
+{
+  "name": "AuraChat",
+  "description": "A secure, end-to-end encrypted instant messaging platform supporting group and private chats, file sharing, automatic dark mode, and multi-language support (AR/EN).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
